@@ -7,6 +7,7 @@ import pyperclip
 import json
 import os
 
+history_file = "upload_history.json"
 
 
 def save_history(file_path, link):
